@@ -1,4 +1,4 @@
-FROM glenux/basebox:init
+FROM glenux/basebox
 
 MAINTAINER Glenn Y. Rolland <glenux@glenux.net>
 # Based on the work of Wei-Ming Wu <wnameless@gmail.com>
