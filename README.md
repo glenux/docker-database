@@ -1,4 +1,4 @@
-A base debian box for LAMP.
+A base debian box for all your LAMP needs.
 
 It provides :
 
